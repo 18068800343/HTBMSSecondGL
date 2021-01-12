@@ -12,7 +12,7 @@ public class ConfigInfo {
 //	public static String indexPage = "jsp/structMgr.jsp";
 	
 	/**是否运行FTP文件定时任务*/
-	public static boolean ftp = true;
+	public static boolean ftp = false;
 	
 	/**是否运行数据库定时备份任务*/
 	public static boolean backUp = false;

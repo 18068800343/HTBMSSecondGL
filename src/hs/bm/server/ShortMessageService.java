@@ -38,7 +38,7 @@ public class ShortMessageService
 	// 短信通知形式，一般为normal
 	private static String SmsType = "normal";
 	// 短信签名
-	private static String SmsFreeSignName = "华通桥涵";
+	private static String SmsFreeSignName = "智能化桥涵";
 	// 短信模版
 	private static String SmsTemplateCode = "SMS_105095002";
 

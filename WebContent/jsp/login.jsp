@@ -13,7 +13,7 @@
 <html lang="zh-CN" style="background-color: rgb(231,231,231);">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>华通桥涵管理系统</title>
+<title>智能化桥涵管理系统</title>
 
 <base href="<%=basePath%>">
 
@@ -105,7 +105,7 @@ body {
 	<div role="main">
 		<div class="container" style="position: relative;">
 			<p class="login-header-big"
-				style="top:50px;left: 50%;transform: translate(-50%, 0);font-size: 40px;position: absolute;z-index: 1;">华通桥涵管理系统</p>
+				style="top:50px;left: 50%;transform: translate(-50%, 0);font-size: 40px;position: absolute;z-index: 1;">智能化桥涵管理系统</p>
 			<div class="col-xs-12">
 				<div class="" align="center"
 					style="position: absolute;top: 190px;left: 50%;transform: translate(-50%,0);width: 250px;z-index: 2;">
@@ -172,12 +172,12 @@ body {
 						style="width: 62px;margin-right: 15px;">
 					<p class="pull-left"
 						style="width: 300px;font-size: 13px;color: rgb(78,94,116);">
-						华通桥涵v2.2&nbsp;&nbsp;&nbsp;Android版扫码下载 &nbsp; &nbsp; &nbsp;<a
+						智能化桥涵v2.2&nbsp;&nbsp;&nbsp;Android版扫码下载 &nbsp; &nbsp; &nbsp;<a
 							href="javascript:void(0)" id="checkPower">查看授权</a>
 					</p>
 					<br>
 					<p class="pull-left" style="width: 385px;font-size: 13px;">
-						版权所有：江苏华通工程检测有限公司&nbsp;&nbsp;南京市秦淮区紫云大道9号<br>
+						版权所有：江苏智能化工程检测有限公司&nbsp;&nbsp;南京市秦淮区紫云大道9号<br>
 						技术支持：南京棱点信息科技有限公司&nbsp;&nbsp;南京市秦淮区永智路6号
 					</p>
 					<br>

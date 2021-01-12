@@ -9,7 +9,7 @@ String path = request.getRequestURI().toString();
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>华通桥涵管理系统</title>
+<title>智能化桥涵管理系统</title>
 </head>
 <body>
 	<!-- Left panel : Navigation area -->

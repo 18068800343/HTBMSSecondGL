@@ -1,6 +1,6 @@
 /**
  * <p>Title: CurrentControlDao.java</p>
- * <p>Description: 华通桥涵管理系统</p>
+ * <p>Description: 智能化桥涵管理系统</p>
  * <p>Company: 环水信息技术有限公司</p>
  * @author 马潇霄
  * @version 1.0 创建时间：2017年7月18日 下午2:18:42

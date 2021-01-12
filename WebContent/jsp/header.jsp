@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>华通桥涵管理系统</title>
+<title>智能化桥涵管理系统</title>
 <style type="text/css">
 .leftItem{
 	margin-left: 12px;
@@ -32,10 +32,9 @@
 			
 				<!-- PLACE YOUR LOGO HERE -->
 				<!-- <span id="logo"> <img src="../img/logo.png" alt="SmartAdmin"> </span> -->
-				<div class="" style="width: 600px">
+				<div class="" style="width: 800px">
 				
-					&nbsp;&nbsp;&nbsp;&nbsp;<img alt="华通桥涵管理系统" src="../img/htlogo.png" class="" style="width: 25%;">
-					<span id="logo" style="padding-left:0px;font-size:1.5em;font-weight:bold">华通桥涵管理系统</span>
+					<span id="logo" style="padding-left:0px;font-size:1.48em;font-weight:bold">智能化桥涵管理系统</span>
 	<!-- 				<a style="font-size: 1.5em;cursor: pointer;" href="/HTBMSSecond/DescripDownloadServices" target="_blank"><i class="fa fa-question-circle" ></i></a> -->
 				</div>
 				
